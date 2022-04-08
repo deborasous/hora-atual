@@ -3,10 +3,10 @@ body {
     padding: 0;
     display: flex;
     font-family: 'Noto Sans', sans-serif;
+    background: rgb(122, 122, 231);
 }
 
 #content {
-    background: rgb(122, 122, 231);
     width: 100vw;
     height: 100vh;
 }
@@ -17,7 +17,7 @@ body {
     margin-top: 5rem;
 }
 
-#content section {
+#content .sect {
     background: rgb(228, 228, 243);
     width: 20rem;
     padding: 3rem 5rem;
